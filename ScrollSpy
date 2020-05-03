@@ -1,0 +1,171 @@
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+  
+    <meta charset="utf-8">
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+	
+	<style type="text/css">
+	
+		body {
+		
+			position:relative;
+			
+		}
+		
+		#one {
+		
+			margin-top:70px;
+			
+		}
+	
+	</style>
+	
+  </head>
+  
+  <body data-spy="scroll" data-target="#navbar-example" data-offset="70">
+	
+	<nav id="navbar-example" class="navbar navbar-default bg-light fixed-top">
+	
+		<ul class="nav nav-tabs" role="tablist">
+			<li><a class="flex-sm-fill text-sm-center nav-link active" href="#one">Section 1</a></li>
+			<li><a class="flex-sm-fill text-sm-center nav-link" href="#two">Section 2</a></li>
+			<li><a class="flex-sm-fill text-sm-center nav-link" href="#three">Section 3</a></li>
+			<li><a class="flex-sm-fill text-sm-center nav-link" href="#four">Section 4</a></li>
+	
+		</ul>
+	</nav>
+	
+		<h2 id="one">Section 1</h2>
+		
+		<div>What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.
+			
+			What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.
+			
+			What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.</div>
+			
+		<h2 id="two">Section 2</h2>
+		
+		<div>What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.
+			
+			What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.
+			
+			What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.</div>
+			
+		<h2 id="three">Section 3</h2>
+		
+		<div>What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.
+			
+			What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.
+			
+			What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.</div>
+			
+		<h2 id="four">Section 4</h2>
+		
+		<div>What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.
+			
+			What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.
+			
+			What Are Articles?
+			Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+			After the long day, the cup of tea tasted particularly good.
+			By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+			After a long day, a cup of tea tastes particularly good.
+			By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+			English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.</div>
+   
+   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+	
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+	
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	
+	
+  </body>
+  
+</html>
