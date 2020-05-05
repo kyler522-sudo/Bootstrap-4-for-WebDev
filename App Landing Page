@@ -84,7 +84,7 @@
 	
   </head>
   
-  <body data-spy="scroll" data-target="#navbarSupportedContent" data-offset="150">
+  <body data-spy="scroll" data-target="#navbarSupportedContent" data-offset="220">
   
 		<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light" id="navbarSupportedContent">
 			  <a class="navbar-brand" href="#">FREELy</a>
